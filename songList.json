@@ -1,156 +1,548 @@
 [
     {
         "id": 1,
-        "anime": "Occultic;Nine - Ending 1",
-        "name": "Open your eyes by Asaka",
-        "video": "https://naedist.animemusicquiz.com/fnwh8f.webm",
-        "mp3": "https://naedist.animemusicquiz.com/3ilaqc.mp3"
+        "anime": "9: Ruler's Crown - Opening 1",
+        "name": "\"ResoNAnce\" by ARAKI",
+        "video": "https://eudist.animemusicquiz.com/cu1u7p85jf4nqezj.webm",
+        "mp3": "https://eudist.animemusicquiz.com/xxbv2s.mp3"
     },
     {
         "id": 2,
-        "anime": "Island - Ending 1",
-        "name": "Eternal Star by Asaka",
-        "video": "https://naedist.animemusicquiz.com/ryqt28.webm",
-        "mp3": "https://naedist.animemusicquiz.com/qxvhfm.mp3"
+        "anime": "Ame to Kimi to - Opening 1",
+        "name": "\"Ame to\" by Mamiko Suzuki",
+        "video": "https://eudist.animemusicquiz.com/y513l0if4v9y64hc.webm",
+        "mp3": "https://eudist.animemusicquiz.com/pd7dw3.mp3"
     },
     {
         "id": 3,
-        "anime": "Island - Ending 2",
-        "name": "Marine SNOW by Asaka",
-        "video": "https://naedist.animemusicquiz.com/thw4co.webm",
-        "mp3": "https://naedist.animemusicquiz.com/kr012l.mp3"
+        "anime": "Ansatsu Kyoushitsu (Rebroadcast) - Opening 2",
+        "name": "\"Last Look\" by Keina Suda",
+        "video": "https://eudist.animemusicquiz.com/ff9i64wk52viect8.webm",
+        "mp3": "https://eudist.animemusicquiz.com/7ekz74.mp3"
     },
     {
         "id": 4,
-        "anime": "Centaur no Nayami - Ending 1",
-        "name": "Edelweiss by Asaka",
-        "video": "https://naedist.animemusicquiz.com/y6a8p4.webm",
-        "mp3": "https://naedist.animemusicquiz.com/fugb1w.mp3"
+        "anime": "Arknights: Enshin Shomei/Rise from Ember - Opening 1",
+        "name": "\"End of Days\" by ReoNa",
+        "video": "https://eudist.animemusicquiz.com/u68hzoidt3hla6al.webm",
+        "mp3": "https://eudist.animemusicquiz.com/iyvufk.mp3"
     },
     {
         "id": 5,
-        "anime": "Centaur no Nayami - Ending 2",
-        "name": "Edelweiss (English Version) by Asaka",
-        "video": "https://naedist.animemusicquiz.com/5pm2t4.webm",
-        "mp3": "https://naedist.animemusicquiz.com/r1np0h.mp3"
+        "anime": "Bad Girl - Opening 1",
+        "name": "\"Super Big Love!\" by Tenrou-gun",
+        "video": "https://eudist.animemusicquiz.com/nmr7nxquu2bo6wtz.webm",
+        "mp3": "https://eudist.animemusicquiz.com/m7365r.mp3"
     },
     {
         "id": 6,
-        "anime": "Yuru Camp△ - Opening 1",
-        "name": "SHINY DAYS by Asaka",
-        "video": "https://naedist.animemusicquiz.com/1pj273.webm",
-        "mp3": "https://naedist.animemusicquiz.com/zr84eu.mp3"
+        "anime": "Binan Koukou Chikyuu Bouei-bu Haikara! - Opening 1",
+        "name": "\"Haikara de GO!!\" by Haikara Roman-dan",
+        "video": "https://eudist.animemusicquiz.com/b6ez1y5kzb1spnay.webm",
+        "mp3": null
     },
     {
         "id": 7,
-        "anime": "Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Opening 1",
-        "name": "Kono Yo no Hate de Koi o Utau Shoujo by Asaka",
-        "video": "https://naedist.animemusicquiz.com/rc672w.webm",
-        "mp3": "https://naedist.animemusicquiz.com/iy81bc.mp3"
+        "anime": "Bullet/Bullet - Opening 1",
+        "name": "\"WORK HARD\" by CHANMINA",
+        "video": "https://eudist.animemusicquiz.com/uw6fgywsx2pagp38.webm",
+        "mp3": null
     },
     {
         "id": 8,
-        "anime": "Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Ending 2",
-        "name": "Kami no Suushiki by Asaka",
-        "video": "https://naedist.animemusicquiz.com/5a34xd.webm",
-        "mp3": "https://naedist.animemusicquiz.com/xterm0.mp3"
+        "anime": "Busamen Gachi Fighter - Opening 1",
+        "name": "\"My Way\" by TEMPEST",
+        "video": "https://eudist.animemusicquiz.com/1byly5biubc204uj.webm",
+        "mp3": null
     },
     {
         "id": 9,
-        "anime": "Naka no Hito Genome [Jikkyouchuu] - Insert Song",
-        "name": "Code \"Genius\"? by Asaka",
-        "video": "https://naedist.animemusicquiz.com/f6fx86.webm",
-        "mp3": "https://naedist.animemusicquiz.com/cg8zaj.mp3"
+        "anime": "Busu ni Hanataba wo. - Opening 1",
+        "name": "\"BLOOM\" by TWS feat. Ayumu Imazu",
+        "video": "https://eudist.animemusicquiz.com/9n5wbvdssh6kxju8.webm",
+        "mp3": "https://eudist.animemusicquiz.com/iyqi3e.mp3"
     },
     {
         "id": 10,
-        "anime": "Heya Camp△ - Ending 1",
-        "name": "The Sunshower by Asaka",
-        "video": "https://naedist.animemusicquiz.com/hkvfxt.webm",
-        "mp3": "https://naedist.animemusicquiz.com/3o6hia.mp3"
+        "anime": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen - Opening 1",
+        "name": "\"Feathered Dreams\" by Morfonica",
+        "video": "https://eudist.animemusicquiz.com/lgysshucqtinr6r5.webm",
+        "mp3": null
     },
     {
         "id": 11,
-        "anime": "Higurashi no Naku Koro ni Gou - Opening 1",
-        "name": "I believe what you said by Asaka",
-        "video": "https://naedist.animemusicquiz.com/hhh0q3.webm",
-        "mp3": "https://naedist.animemusicquiz.com/56e0hn.mp3"
+        "anime": "Chibi Godzilla no Gyakushuu 3rd Season - Opening 1",
+        "name": "\"Kaijuu-tou\" by Wednesday Campanella",
+        "video": "https://eudist.animemusicquiz.com/3wyzdxua0catbvp2.webm",
+        "mp3": null
     },
     {
         "id": 12,
-        "anime": "Shikizakura - Opening 1",
-        "name": "BELIEVE MYSELF by Asaka",
-        "video": "https://naedist.animemusicquiz.com/rliihj.webm",
-        "mp3": "https://naedist.animemusicquiz.com/woyaed.mp3"
+        "anime": "City the Animation - Opening 1",
+        "name": "\"Hello\" by Furui Riho",
+        "video": "https://eudist.animemusicquiz.com/up56u564ysh73de0.webm",
+        "mp3": null
     },
     {
         "id": 13,
-        "anime": "Yuru Camp△ Season 2 - Opening 1",
-        "name": "Seize The Day by Asaka",
-        "video": "https://naedist.animemusicquiz.com/0bl6rq.webm",
-        "mp3": "https://naedist.animemusicquiz.com/bjp3hm.mp3"
+        "anime": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha - Opening 1",
+        "name": "\"Ruler\" by Mayu Maeshima",
+        "video": "https://eudist.animemusicquiz.com/5xj2ukxxc5rw2zwz.webm",
+        "mp3": "https://eudist.animemusicquiz.com/oij3rf.mp3"
     },
     {
         "id": 14,
-        "anime": "Yuru Camp△ Season 2 - Insert Song",
-        "name": "Kono Basho de. by Okunai Katsudou Circle (Asaka)",
-        "video": "https://naedist.animemusicquiz.com/yif5sw.webm",
-        "mp3": "https://naedist.animemusicquiz.com/w5o7fv.mp3"
+        "anime": "Dandadan 2nd Season - Opening 1",
+        "name": "\"Kakumei Douchuu\" by AiNA THE END",
+        "video": "https://eudist.animemusicquiz.com/qh8wmvitszbs1a03.webm",
+        "mp3": null
     },
     {
         "id": 15,
-        "anime": "Kenja no Deshi o Nanoru Kenja - Opening 1",
-        "name": "Ready Set Go!! by Asaka",
-        "video": "https://naedist.animemusicquiz.com/6zjw7k.webm",
-        "mp3": "https://naedist.animemusicquiz.com/na7mzx.mp3"
+        "anime": "Dekin no Mogura - Opening 1",
+        "name": "\"Kamidanomi\" by syudou",
+        "video": "https://eudist.animemusicquiz.com/mb8nexgm0gm2byfl.webm",
+        "mp3": null
     },
     {
         "id": 16,
-        "anime": "Kenja no Deshi o Nanoru Kenja - Ending 2",
-        "name": "Ballad by Asaka",
-        "video": "https://naedist.animemusicquiz.com/khqhia.webm",
-        "mp3": "https://naedist.animemusicquiz.com/rn5sji.mp3"
+        "anime": "Dr. Stone: Science Future Part 2 - Opening 1",
+        "name": "\"SUPERNOVA\" by KANA-BOON",
+        "video": "https://eudist.animemusicquiz.com/0qxl3c30tyruzwu7.webm",
+        "mp3": null
     },
     {
         "id": 17,
-        "anime": "Eiga Yuru Camp△ - Opening 1",
-        "name": "Sun Is Coming Up by Asaka",
-        "video": "https://naedist.animemusicquiz.com/bmvpvz.webm",
-        "mp3": "https://naedist.animemusicquiz.com/s48m06.mp3"
+        "anime": "Dungeons & Television - Opening 1",
+        "name": "\"Kaze no Ishizue\" by Chika Haneta",
+        "video": "https://files.catbox.moe/ui6bfa.mp4",
+        "mp3": null
     },
     {
         "id": 18,
-        "anime": "Summertime Render - Opening 2",
-        "name": "Natsuyume Noisy by Asaka",
-        "video": "https://naedist.animemusicquiz.com/r4wrc2.webm",
-        "mp3": "https://naedist.animemusicquiz.com/tmz49f.mp3"
+        "anime": "Fermat no Ryouri - Opening 1",
+        "name": "\"Maillard\" by OSHIKIKEIGO",
+        "video": "https://eudist.animemusicquiz.com/1lq6naf6u3owf36m.webm",
+        "mp3": null
     },
     {
         "id": 19,
-        "anime": "Choujigen Game Neptune: Hidamari no Little Purple - Insert Song",
-        "name": "Never ending true stories by Asaka",
-        "video": "https://naedist.animemusicquiz.com/83wda3.webm",
-        "mp3": "https://naedist.animemusicquiz.com/7rafgi.mp3"
+        "anime": "Food Court de, Mata Ashita. - Opening 1",
+        "name": "\"Mikansei ni Matataite\" by Oisicle Melonpan",
+        "video": "https://eudist.animemusicquiz.com/jzar0w9nnmmtzb4x.webm",
+        "mp3": null
     },
     {
         "id": 20,
-        "anime": "Yuru Camp△ Season 3 - Ending 1",
-        "name": "So Precious by Asaka",
-        "video": "https://naedist.animemusicquiz.com/ot6lvc.webm",
-        "mp3": "https://naedist.animemusicquiz.com/oup6dc.mp3"
+        "anime": "Futari Solo Camp - Opening 1",
+        "name": "\"Akari wa Tooku\" by Skirt",
+        "video": "https://eudist.animemusicquiz.com/nu92jjogk580k68d.webm",
+        "mp3": null
     },
     {
         "id": 21,
-        "anime": "Dosanko Gal wa Namaramenkoi - Ending 1",
-        "name": "Wayawayawaa! by Asaka",
-        "video": "https://naedist.animemusicquiz.com/l0x6jm.webm",
-        "mp3": "https://naedist.animemusicquiz.com/ag2zaf.mp3"
+        "anime": "GaCen Shoujo to Ibunka Kouryuu - Opening 1",
+        "name": "\"Futari no Start Button\" by Sally Amaki & Reo Osanai",
+        "video": "https://eudist.animemusicquiz.com/76hl2kb9ksopqtjn.webm",
+        "mp3": null
     },
     {
         "id": 22,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Opening 1",
-        "name": "GIVE & TAKE by Asaka",
-        "video": "https://naedist.animemusicquiz.com/36aebe.webm",
-        "mp3": "https://naedist.animemusicquiz.com/c799g2.mp3"
+        "anime": "Gachiakuta - Opening 1",
+        "name": "\"HUGs\" by Paledusk",
+        "video": "https://eudist.animemusicquiz.com/5cnqfp76w59uran4.webm",
+        "mp3": "https://eudist.animemusicquiz.com/dgv225.mp3"
+    },
+    {
+        "id": 23,
+        "anime": "Ginga Tokkyuu Milky☆Subway - Opening 1",
+        "name": "\"Ginga-kei made Tonde Ike!\" by Candies",
+        "video": "https://eudist.animemusicquiz.com/f3jvanlwkcmswh8k.webm",
+        "mp3": null
+    },
+    {
+        "id": 24,
+        "anime": "Grand Blue Season 2 - Opening 1",
+        "name": "\"Seishun Towa\" by Shonan no Kaze feat. Atarashii Gakkou no Leaders",
+        "video": "https://eudist.animemusicquiz.com/iyjxlpm35a8br16c.webm",
+        "mp3": null
+    },
+    {
+        "id": 25,
+        "anime": "Hikaru ga Shinda Natsu - Opening 1",
+        "name": "\"Saikai\" by Vaundy",
+        "video": "https://eudist.animemusicquiz.com/vyn2ng5tspz1rgqu.webm",
+        "mp3": null
+    },
+    {
+        "id": 26,
+        "anime": "Hotel Inhumans - Opening 1",
+        "name": "\"Mr. Moonlight\" by imase",
+        "video": "https://eudist.animemusicquiz.com/fzday26pi3ghdyfb.webm",
+        "mp3": null
+    },
+    {
+        "id": 27,
+        "anime": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku - Opening 1",
+        "name": "\"Majestic Catastrophe\" by Rico Sasaki",
+        "video": "https://eudist.animemusicquiz.com/3zthvhkuzzkhbv0a.webm",
+        "mp3": "https://eudist.animemusicquiz.com/y37ka9.mp3"
+    },
+    {
+        "id": 28,
+        "anime": "Jibaku Shounen Hanako-kun 2 Part 2 - Opening 1",
+        "name": "\"Kagome Kagome\" by Masayoshi Ooishi",
+        "video": "https://eudist.animemusicquiz.com/1jrf2qsuyrb06dx0.webm",
+        "mp3": null
+    },
+    {
+        "id": 29,
+        "anime": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season - Opening 1",
+        "name": "\"Mirai Cider\" by BRADIO",
+        "video": "https://eudist.animemusicquiz.com/gm5lxrzl9mb176p3.webm",
+        "mp3": "https://eudist.animemusicquiz.com/5oqanv.mp3"
+    },
+    {
+        "id": 30,
+        "anime": "Jigoku Sensei Nube (2025) - Opening 1",
+        "name": "\"POWER -Akuryou Taisan-\" by -Shintenchi Kaibyaku Shudan- Zigzag",
+        "video": "https://eudist.animemusicquiz.com/dv8f29ht2vom1src.webm",
+        "mp3": "https://eudist.animemusicquiz.com/177gp4.mp3"
+    },
+    {
+        "id": 31,
+        "anime": "Kaijuu 8-gou 2nd Season - Opening 1",
+        "name": "\"You Can't Run From Yourself\" by Aurora",
+        "video": "https://eudist.animemusicquiz.com/uqy9qw8pndk3dsad.webm",
+        "mp3": "https://eudist.animemusicquiz.com/dw6u6j.mp3"
+    },
+    {
+        "id": 32,
+        "anime": "Kakkou no Iinazuke Season 2 - Opening 1",
+        "name": "\"Kimi ga Kureta Mono\" by asmi",
+        "video": "https://eudist.animemusicquiz.com/ibz6uj64fteemtik.webm",
+        "mp3": "https://eudist.animemusicquiz.com/oa2civ.mp3"
+    },
+    {
+        "id": 33,
+        "anime": "Kamitsubaki-shi Kensetsuchuu. - Opening 1",
+        "name": "\"Utahime\" by V.W.P -Virtual Witch Phenomenon-",
+        "video": "https://eudist.animemusicquiz.com/qduxqm4uqh4xl6z0.webm",
+        "mp3": "https://eudist.animemusicquiz.com/mnssz8.mp3"
+    },
+    {
+        "id": 34,
+        "anime": "Kanojo, Okarishimasu 4th Season - Opening 1",
+        "name": "\"Umitsuki\" by ClariS",
+        "video": "https://eudist.animemusicquiz.com/0yz7at6eism6w7j1.webm",
+        "mp3": "https://eudist.animemusicquiz.com/f734y8.mp3"
+    },
+    {
+        "id": 35,
+        "anime": "Kaoru Hana wa Rin to Saku - Opening 1",
+        "name": "\"Manazashi wa Hikari\" by Tatsuya Kitani",
+        "video": "https://eudist.animemusicquiz.com/1n91xr7aot9ptg39.webm",
+        "mp3": null
+    },
+    {
+        "id": 36,
+        "anime": "Karaoke Iko! - Opening 1",
+        "name": "\"HOWL\" by Ayumu Imazu",
+        "video": "https://eudist.animemusicquiz.com/gb6bo8m0ivtpxyh2.webm",
+        "mp3": null
+    },
+    {
+        "id": 37,
+        "anime": "Kijin Gentoushou - Opening 2",
+        "name": "\"Ash\" by [Alexandros]",
+        "video": "https://eudist.animemusicquiz.com/hw6q5cg4ccbe6tdf.webm",
+        "mp3": "https://eudist.animemusicquiz.com/6u58va.mp3"
+    },
+    {
+        "id": 38,
+        "anime": "Kizetsu Yuusha to Ansatsu-hime - Opening 1",
+        "name": "\"Tenden Barabara\" by Yoshino",
+        "video": "https://eudist.animemusicquiz.com/1hnh92n6bk2gap90.webm",
+        "mp3": null
+    },
+    {
+        "id": 39,
+        "anime": "Kizu darake Seijo yori Houfuku wo Komete - Opening 1",
+        "name": "\"DiZZY\" by Reina Washio",
+        "video": "https://eudist.animemusicquiz.com/ehst5o1h16alucb0.webm",
+        "mp3": null
+    },
+    {
+        "id": 40,
+        "anime": "Koujo Denka no Kateikyoushi - Opening 1",
+        "name": "\"Wish for you\" by Ami Maeshima",
+        "video": "https://eudist.animemusicquiz.com/8ibtdw261u4vg8et.webm",
+        "mp3": "https://eudist.animemusicquiz.com/tbm5mz.mp3"
+    },
+    {
+        "id": 41,
+        "anime": "Leviathan - Opening 1",
+        "name": "\"Paths Combine\" by Joe Hisaishi",
+        "video": "https://eudist.animemusicquiz.com/cdodao4e8tegya62.webm",
+        "mp3": "https://eudist.animemusicquiz.com/p40qcn.mp3"
+    },
+    {
+        "id": 42,
+        "anime": "Mattaku Saikin no Tantei to Kitara - Opening 1",
+        "name": "\"Suffer\" by Taiiku Okazaki",
+        "video": "https://eudist.animemusicquiz.com/hduy2bvbjhk0mjla.webm",
+        "mp3": "https://eudist.animemusicquiz.com/2yfb60.mp3"
+    },
+    {
+        "id": 43,
+        "anime": "Meitantei Conan - Opening 60",
+        "name": "\"Poker Face\" by amyuri",
+        "video": "https://eudist.animemusicquiz.com/uyihqjs1mzi8xnlp.webm",
+        "mp3": "https://eudist.animemusicquiz.com/fryoa9.mp3"
+    },
+    {
+        "id": 44,
+        "anime": "Mikadono San Shimai wa Angai, Choroi. - Opening 1",
+        "name": "\"Kimi ni Fusawashii Kiseki\" by Nichiyoubi no MAISONdes",
+        "video": "https://eudist.animemusicquiz.com/iqkrgvdfwfjvfocn.webm",
+        "mp3": "https://eudist.animemusicquiz.com/79vxnt.mp3"
+    },
+    {
+        "id": 45,
+        "anime": "Mizu Zokusei no Mahoutsukai - Opening 1",
+        "name": "\"Blue Motion\" by Meiyo Densetsu",
+        "video": "https://eudist.animemusicquiz.com/ktov1d3n6km4wkaw.webm",
+        "mp3": null
+    },
+    {
+        "id": 46,
+        "anime": "Muchuu sa, Kimi ni. - Opening 1",
+        "name": "\"Rubble\" by Keina Suda",
+        "video": "https://eudist.animemusicquiz.com/7xx533hspirj1q29.webm",
+        "mp3": null
+    },
+    {
+        "id": 47,
+        "anime": "Necronomico no Cosmic Horror Show - Opening 1",
+        "name": "\"Kakushouron\" by Ryushen",
+        "video": "https://eudist.animemusicquiz.com/flpcin3b2fc27yk3.webm",
+        "mp3": null
+    },
+    {
+        "id": 48,
+        "anime": "Neko no Kuro-chan: Ordinary Days - Opening 1",
+        "name": "\"Neko no Kuro-chan\" by pinkskirt",
+        "video": "https://files.catbox.moe/bzrbe9.mp4",
+        "mp3": null
+    },
+    {
+        "id": 49,
+        "anime": "New Panty & Stocking with Garterbelt - Opening 1",
+        "name": "\"Theme of New PANTY & STOCKING\" by TeddyLoid & ☆Taku Takahashi with Ashley & E.V.P",
+        "video": "https://eudist.animemusicquiz.com/vzamjaitqinl692t.webm",
+        "mp3": "https://eudist.animemusicquiz.com/l8zu2p.mp3"
+    },
+    {
+        "id": 50,
+        "anime": "Nukitashi the Animation - Opening 1",
+        "name": "\"Utopia or Dystopia\" by Yuki Yumeno",
+        "video": "https://eudist.animemusicquiz.com/c74bhuw442g9ryex.webm",
+        "mp3": "https://eudist.animemusicquiz.com/3nh2ti.mp3"
+    },
+    {
+        "id": 51,
+        "anime": "Nyaight of the Living Cat - Opening 1",
+        "name": "\"CAT CITY\" by THE YELLOW MONKEY",
+        "video": "https://eudist.animemusicquiz.com/6v1wd7389oumv5o3.webm",
+        "mp3": "https://eudist.animemusicquiz.com/fnj210.mp3"
+    },
+    {
+        "id": 52,
+        "anime": "One Piece - Opening 28",
+        "name": "\"Carmine\" by ELLEGARDEN",
+        "video": "https://eudist.animemusicquiz.com/cpk6za7n0ir1nx3y.webm",
+        "mp3": null
+    },
+    {
+        "id": 53,
+        "anime": "Onmyou Kaiten Re:Verse - Opening 1",
+        "name": "\"CRY OUT CRY OVER\" by Who-ya Extended",
+        "video": "https://eudist.animemusicquiz.com/6ur4dseo01e7gzn7.webm",
+        "mp3": null
+    },
+    {
+        "id": 54,
+        "anime": "Osomatsu-san 4th Season - Opening 1",
+        "name": "\"Osomatsu-san no Bombashe!\" by DA PUMP",
+        "video": "https://eudist.animemusicquiz.com/zn5knzn5o8nnzcjl.webm",
+        "mp3": "https://eudist.animemusicquiz.com/b4tmea.mp3"
+    },
+    {
+        "id": 55,
+        "anime": "Puniru wa Kawaii Slime 2nd Season - Opening 1",
+        "name": "\"Brun-Brun\" by Yuu Sasahara",
+        "video": "https://eudist.animemusicquiz.com/u164uce7ykecm2vo.webm",
+        "mp3": null
+    },
+    {
+        "id": 56,
+        "anime": "Ruri no Houseki - Opening 1",
+        "name": "\"Hikari no Sumika\" by Rei Yasuda",
+        "video": "https://eudist.animemusicquiz.com/e4xmwtwrvws1clmq.webm",
+        "mp3": null
+    },
+    {
+        "id": 57,
+        "anime": "Sakamoto Days Part 2 - Opening 1",
+        "name": "\"Method\" by Kroi",
+        "video": "https://eudist.animemusicquiz.com/14uytbcukigqfkpv.webm",
+        "mp3": null
+    },
+    {
+        "id": 58,
+        "anime": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai - Opening 1",
+        "name": "\"Snowdrop\" by Conton Candy",
+        "video": "https://eudist.animemusicquiz.com/mr0yyaq3q5ol13sl.webm",
+        "mp3": "https://eudist.animemusicquiz.com/yvdzah.mp3"
+    },
+    {
+        "id": 59,
+        "anime": "Shuukan Ranobe Anime - Opening 1",
+        "name": "\"Hajimari no Aizu\" by Chihaya Yoshitake",
+        "video": "https://eudist.animemusicquiz.com/252iyxsd9bx3024v.webm",
+        "mp3": null
+    },
+    {
+        "id": 60,
+        "anime": "Silent Witch: Chinmoku no Majo no Kakushigoto - Opening 1",
+        "name": "\"Feel\" by Hitsujibungaku",
+        "video": "https://eudist.animemusicquiz.com/8fxf7q85xgqibwn1.webm",
+        "mp3": "https://eudist.animemusicquiz.com/c5u76x.mp3"
+    },
+    {
+        "id": 61,
+        "anime": "Sono Bisque Doll wa Koi wo Suru Season 2 - Opening 1",
+        "name": "\"Ao to Kirameki\" by Spira Spica",
+        "video": "https://eudist.animemusicquiz.com/fs9vps9ebx7xuo3f.webm",
+        "mp3": null
+    },
+    {
+        "id": 62,
+        "anime": "Summer Pockets - Opening 2",
+        "name": "\"Finis Teller\" by Konomi Suzuki",
+        "video": "https://eudist.animemusicquiz.com/fh5tors2893hkpzu.webm",
+        "mp3": "https://eudist.animemusicquiz.com/x7z4b4.mp3"
+    },
+    {
+        "id": 63,
+        "anime": "Takopii no Genzai - Opening 1",
+        "name": "\"Happy Lucky Chappy\" by ano",
+        "video": "https://eudist.animemusicquiz.com/sl69wi0cunx6gf2a.webm",
+        "mp3": null
+    },
+    {
+        "id": 64,
+        "anime": "Tate no Yuusha no Nariagari Season 4 - Opening 1",
+        "name": "\"Resolution\" by MADKID",
+        "video": "https://eudist.animemusicquiz.com/6646wfeslkvxq6r4.webm",
+        "mp3": "https://eudist.animemusicquiz.com/k0o46m.mp3"
+    },
+    {
+        "id": 65,
+        "anime": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season - Opening 1",
+        "name": "\"CALLING†\" by Kaede Higuchi",
+        "video": "https://eudist.animemusicquiz.com/1a85oa7372ynvlpn.webm",
+        "mp3": "https://eudist.animemusicquiz.com/kmzx5g.mp3"
+    },
+    {
+        "id": 66,
+        "anime": "Tensei Soushu no Hadou-tan: Subete wo Nomikomu Sakana to Haiagaru - Opening 1",
+        "name": "\"Hoozuki\" by CROWN HEAD",
+        "video": "https://www.youtube.com/watch?v=rFQuAWU6MzI",
+        "mp3": null
+    },
+    {
+        "id": 67,
+        "anime": "Tougen Anki - Opening 1",
+        "name": "\"OVERNIGHT\" by THE ORAL CIGARETTES",
+        "video": "https://eudist.animemusicquiz.com/9su0s7g0ahutvl3e.webm",
+        "mp3": "https://eudist.animemusicquiz.com/86iyg9.mp3"
+    },
+    {
+        "id": 68,
+        "anime": "Tsuihousha Shokudou e Youkoso! - Opening 1",
+        "name": "\"Unique\" by Dannie May",
+        "video": "https://eudist.animemusicquiz.com/uw3bo727nq3le6dn.webm",
+        "mp3": null
+    },
+    {
+        "id": 69,
+        "anime": "Tsuyokute New Saga - Opening 1",
+        "name": "\"Enja\" by 4s4ki",
+        "video": "https://eudist.animemusicquiz.com/mlu1nf8c1l1tcdry.webm",
+        "mp3": "https://eudist.animemusicquiz.com/fx5wqo.mp3"
+    },
+    {
+        "id": 70,
+        "anime": "Turkey! - Opening 1",
+        "name": "\"Hyakunichisou\" by Nagano-ken Ikkoku-kan Koukou Bowling-bu",
+        "video": "https://eudist.animemusicquiz.com/iv1x470k73at7tsn.webm",
+        "mp3": "https://eudist.animemusicquiz.com/kkss2l.mp3"
+    },
+    {
+        "id": 71,
+        "anime": "Uchuujin MuuMuu - Opening 2",
+        "name": "\"MOVE MOVE\" by a-ko",
+        "video": "https://eudist.animemusicquiz.com/3ku7kiy0sunop9lc.webm",
+        "mp3": null
+    },
+    {
+        "id": 72,
+        "anime": "Utagoe wa Mille-Feuille - Opening 1",
+        "name": "\"Omoidebanashi\" by Temarizawa Koukou Acappella-bu",
+        "video": "https://eudist.animemusicquiz.com/922s39lbxc66qvfp.webm",
+        "mp3": "https://eudist.animemusicquiz.com/k8bz3v.mp3"
+    },
+    {
+        "id": 73,
+        "anime": "Watari-kun no xx ga Houkai Sunzen - Opening 1",
+        "name": "\"Yuurei ni Naritai\" by 'Yuika'",
+        "video": "https://eudist.animemusicquiz.com/vyuxsvuhp2w7kqug.webm",
+        "mp3": "https://eudist.animemusicquiz.com/k9pb6e.mp3"
+    },
+    {
+        "id": 74,
+        "anime": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?) - Opening 1",
+        "name": "\"Muri Muri Shinkaron\" by Akari Nanawo",
+        "video": "https://eudist.animemusicquiz.com/y44aumygthfpxmkm.webm",
+        "mp3": null
+    },
+    {
+        "id": 75,
+        "anime": "Witch Watch - Opening 2",
+        "name": "\"Tokihanate!\" by Hashimero",
+        "video": "https://eudist.animemusicquiz.com/xz21ai4dt4soxcfj.webm",
+        "mp3": null
+    },
+    {
+        "id": 76,
+        "anime": "Yofukashi no Uta Season 2 - Opening 1",
+        "name": "\"Mirage\" by Creepy Nuts",
+        "video": "https://eudist.animemusicquiz.com/h2k2jhypffqxok6z.webm",
+        "mp3": "https://eudist.animemusicquiz.com/45lb8s.mp3"
+    },
+    {
+        "id": 77,
+        "anime": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru - Opening 1",
+        "name": "\"Junjou de Are.\" by Gakuto Kajiwara",
+        "video": "https://eudist.animemusicquiz.com/ldxtqtpezlsk5ywq.webm",
+        "mp3": "https://eudist.animemusicquiz.com/lkrl9w.mp3"
+    },
+    {
+        "id": 78,
+        "anime": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru - Opening 1",
+        "name": "\"Gesshoku\" by krage",
+        "video": "https://eudist.animemusicquiz.com/xhl5mv39oaaiwprl.webm",
+        "mp3": "https://eudist.animemusicquiz.com/nk2dqq.mp3"
     }
 ]
